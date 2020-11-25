@@ -1,0 +1,83 @@
+
+/****************TAG STYLES****************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nerko One', sans-serif;
+  color: #FFFFFF;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Inconsolata', monospace;
+  color: #FFFFFF;
+}
+
+div {
+  position: relative;
+}
+
+a:link {
+  color: #FFFFFF;
+}
+
+a:visited {
+  color: #FF00F0;
+}
+
+/****************CLASS STYLES****************/
+
+.profile {
+  width: 200px;
+  height: 200px;
+}
+
+.background {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
+
+.topcontainer {
+  padding-top: 100px;
+  position: relative;
+}
+
+.middlecontainer {
+  position: relative;
+}
+
+.bottomcontainer {
+  position: relative;
+}
+
+.dirt {
+  text-decoration: underline;
+
+}
+
+.sleep {
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+
+.tattoos {
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+
+.topcloud {
+  position: absolute;
+  top: 20px;
+  right: 300px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
