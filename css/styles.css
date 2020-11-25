@@ -6,8 +6,6 @@ body {
   font-family: 'Nerko One', sans-serif;
   color: #FFFFFF;
   background-color: #000000;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 
 h1 {
@@ -33,18 +31,6 @@ a:visited {
 .profile {
   width: 200px;
   height: 200px;
-}
-
-.background {
-  width: 100%;
-  height: 90vh;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-attachment: fixed;
-  top: 0;
-  left: 0;
-
 }
 
 .topcontainer {
